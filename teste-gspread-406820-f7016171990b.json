@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "teste-gspread-406820",
+  "private_key_id": "f7016171990b9b578036d82fb86886d50066e8e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDMxJyCcI+VT+W4\nVMPwx7ueqBcAoIyE2RhTPerzFsQuqRyMnArglTY5eQNj3BGVriZh4dZlLJbWH/Ue\n2hVOKouNFAZYWCPDL8lN1iohqIeZKHwvy/jN8mUNDEjg0l+QqjiaAw2QQzyBG1JY\nFNSvYC0ha2FUdWZCbp/QBcnFq2tD9qxpooIvUOvNOtnaX938d1iYP4Y0Frqvgs2N\nmwZWXkD6cvaSQlJqqwFD/mR6rAYtf9WTlV30Xi2YawBruiwGTNuiEfH8ae4wrcPA\nqOCzbvv0+DjB3VP834RKgRdvQSyhd3e4jpC3uVqmClklEYqzZE6RzAZ4H8IbyJ7u\n+pjxvrlpAgMBAAECggEALrq/rNTbL4voNMTDYnNyUaayeSYqazbP4k9DCu6rHqrh\nJQWHRfFHSp5fM67JJIt1nujW8IfYdE0et0e1jP0Qk8V6HTcgEi8ZlXXGb5/yMfWX\nQaEeyoECppOjHgtkW7M874i6061EZYJCrG80ikE8i1/h+lBAYfC079giT8Xq2LtN\nsspB8f1WSlm5o+e4u8D0YHH+QCEMvJGSC6EfLXTvA95ispq3mXD5L9M5zgZ5FjI1\nwhZuxlznx5rcRLybJPNvmi7wz5FCFbDqX8eXRDsYHdhZ3fDsigUvKoVVndgIthO/\ni5L2P+GxHmwMEuQAk3d6I+kPv3aX7hNOnHEwSaaxcQKBgQDzeJpkgl3ntqepRYbc\nVU8T6rTAFy3gLKDIzLwTnx/XDqrxdrUkNOMdp44PfNt298NUKA274HdRQTRx8XCz\nrbeyU4dLzsLv/b592BMuZsdDp725eGhXk0racm/BcFuEl5OhnOhFS9ZxdzQ5YUkE\nMG6/2UrTMbFM5ueGti4HOHU8PwKBgQDXTiX0hbrMooWzqzaXMel7OPhGlxFNk9LG\nJ1ACJTNh5YbdCYUzV6mU3BtEeClO+dbdxxFOdx3fNSO664RsM1xS6EatmS3qBN+G\nQY8SSz7SXyizWfp0hcKEMSKn5Zq1jx6wzghyIBgGR5oJDT9k5zHZkPGywKyi//eK\nSwPPXUjAVwKBgQDHO5Cz4M5xN9HZPZDPKmwMc0q3yf/7aumjh438TIFknZcbArXW\nTATyFlO0rsp0fujzK9eZP2TENCRzfUxpbCVfIuUbDrYMZ0sDdda0aNx0q4YgiLxx\ntZFSUsTKuWPai6L+ZATZ9+YicZZlwgtbBzsJeQm26voYYPdjEB94PyYIRwKBgE7W\nCaXQdcbKV8SjE5knKIP7J0XJuQc78nimGnC+qGLXRZuYCdLz7V9ZfQ6EJTQK3XdV\nleuySBjb/1pJNLLd15dv/7k/FoXTBPnG9ZlQPg+P0nphnwidlc0LpNHvi8ehQS6i\nMot/XuyluSxJUoYi9ajhnu7CCDSjH0PfFeUPFj1/AoGBAK+eegIC/IBwGNMqQRix\nt5oCinO1q6T9dO4gRQ05/tD/uhFl5ocv5Bef3/HNzpSDM/+hn15TuJBHRG61SPKq\n0RKA4x8XmfEkZ6MWbRhOlpAH6+kz18xfoGX50iQ2+fl9lNjtv0e1McI3cm7RLT5R\n974ml3zYozfiwdMfs/RNxUhn\n-----END PRIVATE KEY-----\n",
+  "client_email": "contaservico@teste-gspread-406820.iam.gserviceaccount.com",
+  "client_id": "102806272340002928132",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/contaservico%40teste-gspread-406820.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

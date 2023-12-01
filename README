@@ -1,0 +1,5 @@
+Esse repositório tem como objetivo testar uma integração com o Google Sheets através da API Google no Google Cloud e criar uma automação para enviar mensagens no whatsapp web com selenium.
+
+Dependências: ./venv/requirements.txt
+
+Link aberto para planilha
