@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\matheusmoreira\OneDrive\Desktop\API com google sheets e automação\venv
+set VIRTUAL_ENV=C:\Users\matheusmoreira\OneDrive\Desktop\GitHub repositories - mathystrapa\API com google sheets e automação\venv
 
 if not defined PROMPT set PROMPT=$P$G
 

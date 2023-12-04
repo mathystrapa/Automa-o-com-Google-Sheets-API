@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\matheusmoreira\OneDrive\Desktop\API com google sheets e automação\venv"
+VIRTUAL_ENV="C:\Users\matheusmoreira\OneDrive\Desktop\GitHub repositories - mathystrapa\API com google sheets e automação\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
